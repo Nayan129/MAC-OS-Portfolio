@@ -13,7 +13,7 @@ const MacWindow = ({
       default={{
         width: width,
         height: height,
-        x: 150,
+        x: 160,
         y: 100,
       }}
     >
